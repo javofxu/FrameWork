@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Base</string>
+    <string name="Success">成功</string>
+    <string name="Failed">失败</string>
+</resources>
