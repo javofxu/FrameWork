@@ -19,11 +19,17 @@
     <dimen name="margin_120">120dp</dimen>
 
     /** 字体**/
-    <dimen name="base_text">16sp</dimen>
+    <dimen name="text_16">16sp</dimen>
     <dimen name="text_14">14sp</dimen>
     <dimen name="text_18">18sp</dimen>
     <dimen name="text_20">20sp</dimen>
     <dimen name="text_22">22sp</dimen>
     <dimen name="text_12">12sp</dimen>
     <dimen name="text_10">10sp</dimen>
+    <dimen name="text_24">20sp</dimen>
+    <dimen name="text_26">20sp</dimen>
+    <dimen name="text_28">20sp</dimen>
+    <dimen name="text_30">20sp</dimen>
+
+
 </resources>
